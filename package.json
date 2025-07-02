@@ -1,0 +1,12 @@
+{
+    "name": "space-shooter-game",
+    "version": "1.0.0",
+    "description": "A simple space shooter game",
+    "main": "server.js",
+    "scripts": {
+      "dev": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
